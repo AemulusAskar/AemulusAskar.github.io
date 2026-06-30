@@ -21,4 +21,4 @@ This page contains legal attributions and licenses for third-party assets, fonts
 <!--*   **[Название пака звуков/музыки]** — Created by [Имя автора]. Licensed under Creative Commons (CC BY 4.0).-->
 
 ## Engine & Tools
-*    Built with **[Godot Engine](https://godotengine.org)** (Licensed under the MIT License).
+* Built with **[Godot Engine](https://godotengine.org)** (Licensed under the MIT License).
