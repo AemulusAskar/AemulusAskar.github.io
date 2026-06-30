@@ -34,8 +34,9 @@ If you are reporting a bug, it would be incredibly helpful if you could copy and
 > **Description of the bug:**  
 >   
 > **Steps to reproduce the bug:**  
-> 1.  
-> 2.  
-> 3.  
+> Step 1.
+> Step 2.
+> Step 3.
+> And so on.
 >   
 > **Expected behavior:**
