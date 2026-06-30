@@ -2,6 +2,7 @@
 layout: default
 title: Credits & Licenses
 nav_order: 4
+toc: false
 ---
 
 # Credits & Licenses
