@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Karabakh: The Last Hawk
+title: "Karabakh: The Last Hawk"
 parent: Projects
 nav_order: 1
 ---
