@@ -1,10 +1,7 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: "Aemulus Askar"
+description: "Official portfolio of a solo game developer."
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: "https://AemulusAskar.github.io"
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
-footer_content: "© 2026 Aemulus Askar. Все права защищены. Игры и связанные материалы являются интеллектуальной собственностью Aemulus Askar."
+footer_content: "© 2026 Aemulus Askar. All rights reserved. All games, storylines, and related materials are the exclusive intellectual property of the author."
