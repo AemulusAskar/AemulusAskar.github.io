@@ -12,7 +12,7 @@ This page contains legal attributions and licenses for third-party assets, fonts
 
 ## Font Licenses
 <details>
-  <summary><b>Capture Smallz</b> (by Koczman Bálint) — <a href="https://www.dafont.com/capture-smallz">Download on DaFont</a></summary>
+  <summary><b>Capture Smallz</b> (by Koczman Bálint) — <a href="https://www.dafont.com/capture-smallz.font">Download on DaFont</a></summary>
   <div style="margin-top: 10px; padding: 10px; background: #222; border-left: 3px solid #7232dd; font-family: monospace;">
     This font is free to use for personal and commercial works too.<br>
     However donations are accepted.<br>
