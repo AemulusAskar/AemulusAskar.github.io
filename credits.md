@@ -7,7 +7,7 @@ toc: false
 
 # Credits & Licenses
 
-This page contains legal attributions and licenses for third-party assets, fonts, and tools used in my games and projects.
+This5 page contains legal attributions and licenses for third-party assets, fonts, and tools used in my games and projects.
 
 ## Special Thanks
 
