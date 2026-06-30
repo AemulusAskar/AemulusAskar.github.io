@@ -14,6 +14,7 @@ This page contains legal attributions and licenses for third-party assets, fonts
 <details>
 <summary><b>Capture Smallz</b> (by Koczman Bálint) — <a href="https://www.dafont.com/capture-smallz.font">Download on DaFont</a></summary>
 
+
 > This font is free to use for personal and commercial works too. However donations are accepted. Use the Donation button at the font at dafont.com or just simply send it through PayPal via this e-mail: magiquefonts@gmail.com.
 > 
 > You may not sell the font file directly.
