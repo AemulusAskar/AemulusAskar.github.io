@@ -15,7 +15,7 @@ To help me notice your message faster and prevent it from getting lost in spam, 
 ## 📩 Contact Options
 
 * **General Feedback & Thoughts:**  
-  [Click here to compose an email](mailto:aemulusaskar@gmail.com?subject=[Game%20Feedback]%20Your%20Short%20Subject) or write me directly with the subject **`[Game Feedback]`**.
+  [Click here to compose an e-mail](mailto:aemulusaskar@gmail.com?subject=[Game%20Feedback]%20Your%20Short%20Subject) or write me directly with the subject **`[Game Feedback]`**.
 
 * **Bug Reports:**  
   [Click here to report a bug](mailto:aemulusaskar@gmail.com?subject=[Bug%20Report]%20Game%20Title%20-%20Short%20Description) or write me directly with the subject **`[Bug Report]`**.
