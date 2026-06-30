@@ -172,3 +172,11 @@ The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party 
 [MIT License]: https://en.wikipedia.org/wiki/MIT_License
 [starter workflows]: https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
 [actions/starter-workflows]: https://github.com/actions/starter-workflows/blob/main/LICENSE
+
+## License
+
+This website is built using the [Just the Docs](https://github.com/just-the-docs/just-the-docs) template. 
+The underlying source code of this repository is licensed under the [MIT License](LICENSE).
+
+**Intellectual Property Notice:**
+The MIT license strictly applies ONLY to the website framework, layout, and deployment code. All game titles, assets, descriptions, storylines, scripts, characters, graphics, and promotional materials related to our projects are proprietary and remain the exclusive intellectual property of the Aemulus Askar. All rights reserved.
