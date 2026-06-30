@@ -12,7 +12,7 @@ This page contains legal attributions and licenses for third-party assets, fonts
 
 ## Font Licenses
 <details>
-  <summary><b>FontName 1</b> (by Koczman Bálint) — <a href="https://www.dafont.com/ссылка-на-шрифт">DaFont Link</a></summary>
+  <summary><b>Capture Smallz</b> (by Koczman Bálint) — <a href="https://www.dafont.com/capture-smallz.fontт">DaFont Link</a></summary>
   <div style="margin-top: 10px; padding: 10px; background: #222; border-left: 3px solid #7232dd; font-family: monospace;">
     This font is free to use for personal and commercial works too.<br>
     However donations are accepted.<br>
@@ -22,12 +22,12 @@ This page contains legal attributions and licenses for third-party assets, fonts
   </div>
 </details>
 
-<details style="margin-top: 10px;">
+<!--<details style="margin-top: 10px;">
   <summary><b>FontName 2</b> (by Another Author) — <a href="https://www.dafont.com/">DaFont Link</a></summary>
   <div style="margin-top: 10px; padding: 10px; background: #222; border-left: 3px solid #7232dd; font-family: monospace;">
     Текст лицензии для второго шрифта...
   </div>
-</details>
+</details>-->
 
 <!--*   **[Название шрифта]** — Licensed under the SIL Open Font License (OFL). 
     *(Сюда можно прямо текстом вставить лицензию шрифта или дать ссылку на неё).*-->
