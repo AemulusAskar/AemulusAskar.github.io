@@ -1,14 +1,10 @@
 title: "Aemulus Askar"
 description: "Official portfolio of a solo game developer. Psychological RPGs, 3D shooters, and projects."
 
-# Указываем тему оформления
 theme: just-the-docs
 
-# Настройки для GitHub Pages (впиши сюда свой ник вместо твой_ник_на_github)
-url: "https://твой_ник_на_github.io"
+url: "https://AemulusAskar.github.io"
 
-# Встроенный поиск по сайту
 search_enabled: true
 
-# Твой копирайт в подвале сайта
 footer_content: "© 2026 Aemulus Askar. All rights reserved. All games, storylines, and related materials are the exclusive intellectual property of the author."
