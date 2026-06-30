@@ -12,8 +12,8 @@ This Privacy Policy explains how I, Aemulus Askar, handle user information for m
 
 ## 1. Data Collection
 My games are designed to respect player privacy. 
-*   **Personal Data:** I do not collect, store, or share any personal identifiable information (such as names, emails, or device IDs).
-*   **No Analytics/Tracking:** My games do not feature hidden background tracking or analytics tools unless explicitly stated.
+* **Personal Data:** I do not collect, store, or share any personal identifiable information (such as names, emails, or device IDs).
+* **No Analytics/Tracking:** My games do not feature hidden background tracking or analytics tools unless explicitly stated.
 
 ## 2. Third-Party Services
 If you download my games via platforms like Google Play or Itch.io, these platforms may collect distribution data according to their own privacy policies.
