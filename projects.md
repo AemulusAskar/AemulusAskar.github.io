@@ -7,7 +7,7 @@ has_children: true
 
 # Projects
 
-Here you can find information about the games I am currently developing. Select a project from the menu or links below to learn more about its concept, status, and development process.
+Here you can find information about the games I am currently developing. Select a project from the menu or links below to learn more about it's concept, status, and development process.
 
 ## Current Titles
 * **[Karabakh: The Last Hawk](./projects/karabakh-last-hawk)** — A 3D tactical survival shooter based on historical events.
